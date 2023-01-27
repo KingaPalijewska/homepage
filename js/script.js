@@ -1,4 +1,6 @@
-let changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
+console.log("Witam. Ten kod jest już w repozytorium Git.");
+    
+    let changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
 let body = document.body;
 
 let nextColorName = document.querySelector(".js-nextColorName");
