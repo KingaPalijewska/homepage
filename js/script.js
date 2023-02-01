@@ -1,11 +1,22 @@
-console.log("Witam. Ten kod jest już w repozytorium Git.");
-    
-    let changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
-let body = document.body;
+{
+    const welcome = () => {
+        console.log("Witam. Ten kod jest już w repozytorium Git.");
+    }
 
-let nextColorName = document.querySelector(".js-nextColorName");
+    const toggleBackground = () => {
+        const body = document.body;
+        const nextColorName = document.querySelector(".js-nextColorName");
 
-changeBackgroundButton.addEventListener("click", () => {
-    body.classList.toggle("body--grey");
-    nextColorName.innerText = body.classList.contains("body--grey") ? "białe" : "szare";
-});
+        body.classList.toggle("body--grey");
+        nextColorName.innerText = body.classList.contains("body--grey") ? "białe" : "szare";
+    };
+
+    const init = () => {
+        const changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
+        changeBackgroundButton.addEventListener("click", toggleBackground);
+
+        welcome();
+    };
+
+    init();
+}
