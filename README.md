@@ -11,7 +11,7 @@ https://kingapalijewska.github.io/homepage/
 Na stronie przedstawione są zalety palenia świec zapachowych. Ponadto wyszczególnione są popularne marki świec premium. Przedstawione są także grupy zapachowe. Zachęcam do obejrzenia strony :)
 
 ## The page was created with below features, technologies and conventions:
-- ES5 features
+- ES6+ features
 - BEM convention
 - arrow functions
 - links
