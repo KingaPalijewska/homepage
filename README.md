@@ -1,4 +1,4 @@
-# Świece zapachowe - moja strona
+# Scented candles - my website
 
 ![Świece](images/Animation1.gif)
 
@@ -8,7 +8,8 @@ https://kingapalijewska.github.io/homepage/
 
 ## Opis
 
-Na stronie przedstawione są zalety palenia świec zapachowych. Ponadto wyszczególnione są popularne marki świec premium. Przedstawione są także grupy zapachowe. Zachęcam do obejrzenia strony :)
+The website presents the advantages of burning scented candles. There is a list of popular brands of premium candles.
+Fragrance groups are presented. I invite you to watch the page :)
 
 ## The page was created with below features, technologies and conventions:
 - ES6+ features
@@ -18,5 +19,4 @@ Na stronie przedstawione są zalety palenia świec zapachowych. Ponadto wyszczeg
 - deviding the page for sections
 - semantic elements of the page: header,main, section, table, forms, nav, ul, li.
 - classes and ids
-- formatting text tags: i, em, strong, bold
 - modification of HTML elements with addEventListener
