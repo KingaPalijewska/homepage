@@ -1,6 +1,6 @@
 # Świece zapachowe - moja strona
 
-![Świece](http://foto-hosting.pl/img/a7/7b/d9/a77bd99185383c1a0d1296627da09cc69620db9a.jpeg)
+![Świece](images/Animation1.gif)
 
 ## Demo
 
