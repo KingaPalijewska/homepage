@@ -1,4 +1,4 @@
-# Scented candles - my website
+# Scented candles
 
 ![Świece](images/Animation1.gif)
 
