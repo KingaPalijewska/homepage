@@ -9,7 +9,7 @@ https://kingapalijewska.github.io/homepage/
 ## Opis
 
 The website presents the advantages of burning scented candles. There is a list of popular brands of premium candles.
-Fragrance groups are presented. I invite you to watch the page :)
+Presented are fragrance groups. I invite you to watch the page :)
 
 ## The page was created with below features, technologies and conventions:
 - ES6+ features
